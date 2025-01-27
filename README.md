@@ -1,4 +1,4 @@
-# Oracle effect with Arduino and NeoPixel
+# Oráculo with Arduino and NeoPixel
 
 ## Description
 This Arduino sketch controls an 82-LED NeoPixel strip with 6 buttons to trigger various lighting effects. Each button activates a different pattern on the NeoPixel strip. Its visual setup is an approximately 1 meter engine-like cut in wood with the LED strip placed inside the cut, with 6 touch buttons around it. It integrates with a user interface placed in the middle of this engine through a touchscreen, and the buttons call through serial communication each of them when pressed.
